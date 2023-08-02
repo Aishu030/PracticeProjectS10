@@ -1,0 +1,8 @@
+D:\mpha\pp4\Pp4\Pp4\bin\Debug\Pp4.exe.config
+D:\mpha\pp4\Pp4\Pp4\bin\Debug\Pp4.exe
+D:\mpha\pp4\Pp4\Pp4\bin\Debug\Pp4.pdb
+D:\mpha\pp4\Pp4\Pp4\obj\Debug\Pp4.csproj.AssemblyReference.cache
+D:\mpha\pp4\Pp4\Pp4\obj\Debug\Pp4.csproj.SuggestedBindingRedirects.cache
+D:\mpha\pp4\Pp4\Pp4\obj\Debug\Pp4.csproj.CoreCompileInputs.cache
+D:\mpha\pp4\Pp4\Pp4\obj\Debug\Pp4.exe
+D:\mpha\pp4\Pp4\Pp4\obj\Debug\Pp4.pdb
